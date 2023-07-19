@@ -2,6 +2,7 @@
 Pizza Sales Data Analysis Using MS Excel 365
 
 INTROUDUCTION
+
 The project is about pizza sales data analysis. According to the problem statement client need to analyze following KPI's.
 
 1. Total revenue
